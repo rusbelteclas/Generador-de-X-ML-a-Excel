@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import os
 
 # Definir la ruta donde están los archivos XML
-carpeta_facturas = r'C:\Users\cpjav\Downloads\MCO930215Q70\RECIBIDAS\2024-01\XML'
+carpeta_facturas = r'C:\Users\cpjav\Downloads\COHETZALA\2025-01\XML'
 
 # Diccionario de mapeo para los códigos de Forma de Pago
 forma_pago_map = {
